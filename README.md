@@ -1,4 +1,4 @@
-# Sleighers [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJongMun%2FSleighers_Client&count_bg=%23009FFF&title_bg=%23555555&icon=unity.svg&icon_color=%23E7E7E7&title=Sleighers&edge_flat=false)](https://hits.seeyoufarm.com)
+# Sleighers
 
 <a name="readme-top"></a>
 
@@ -16,14 +16,14 @@
 
 1. [프로젝트 개요](#SnowRail)
 2. [프로젝트 소개](#Intro)
-3. [프로젝트 구조도](#Arch)
+3. [프로젝트 아키텍처](#Arch)
 4. [프로젝트 포스터](#Poster)
 
 <!-- ABOUT THE PROJECT-->
 
 <a name="SnowRail"></a>
 ## 프로젝트 개요
-프로젝트 기간 : 2024.04.18 ~ 2023.05.24 (5주)
+프로젝트 기간 : 2024.04.18 ~ 2024.05.24 (5주)
 
 팀원 : **[정종문](https://github.com/JeongJongMun)(팀장/Client)**, [최하빈](https://github.com/haaaabin)(Client), [이성주](https://github.com/mkae21)(Client), [김예림](https://github.com/kimyerim-jungle)(Server), [백강민](https://github.com/EririnG)(Server)
 
@@ -43,11 +43,7 @@
 
 <a name="Intro"></a>
 ## 프로젝트 소개
-**게임 소개 영상 : [바로가기](https://youtu.be/mUcPPCv45e0)**
-
-**현장 발표 영상 : [바로가기](https://youtu.be/e5F5qNgc_2M)**
-
-**[게임 실행파일 다운로드](https://drive.google.com/file/d/1_wK8OwwaYm0cgWS75YG6d_3uWzrxNGxk/view?usp=sharing)**
+**플레이 영상 : [바로가기](https://youtu.be/yZ8QzpE9yaM)**
 
 ![로그인](https://github.com/user-attachments/assets/7c11735a-5932-49e6-8962-0026f8f9288f)
 <p align="center">
@@ -91,7 +87,7 @@
 <br/>
 
 <a name="Arch"></a>
-## 프로젝트 아키텍쳐
+## 프로젝트 아키텍처
 
 ![Sleighers Architecture](https://github.com/SnowRail/Client/assets/101979073/2e17d718-2396-4516-b631-4a2751975735)
 
